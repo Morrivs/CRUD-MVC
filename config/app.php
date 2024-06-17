@@ -1,6 +1,6 @@
 <?php   
     //nombre del dominio
-    const APP_URL= "http://localhost/CRUD/";
+    const APP_URL= "http://localhost/CRUD-MVC/";
     //nombre de la app
     const APP_NAME= "CRUD POO MySQL";
     //nombre de la sesion
